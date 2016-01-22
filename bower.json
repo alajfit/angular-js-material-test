@@ -1,0 +1,15 @@
+{
+  "name": "angular-js-material-test",
+  "description": "Testing out the Angular Material",
+  "main": "index.js",
+  "authors": [
+    "Alan J. Fitzpatrick"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Angular",
+    "Material"
+  ],
+  "homepage": "https://github.com/alajfit/angular-js-material-test",
+  "moduleType": []
+}

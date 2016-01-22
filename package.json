@@ -1,0 +1,23 @@
+{
+  "name": "angular-js-material-test",
+  "version": "1.0.0",
+  "description": "Testing out the Angular Material ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alajfit/angular-js-material-test.git"
+  },
+  "keywords": [
+    "Angular",
+    "Material"
+  ],
+  "author": "Alan J. Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alajfit/angular-js-material-test/issues"
+  },
+  "homepage": "https://github.com/alajfit/angular-js-material-test#readme"
+}
